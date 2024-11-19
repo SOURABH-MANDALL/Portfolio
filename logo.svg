@@ -1,0 +1,7 @@
+<svg width="68" height="65" viewBox="0 0 68 65" fill="none" xmlns="http://www.w3.org/2000/svg">
+<line x1="68" y1="60" x2="33" y2="60" stroke="white" stroke-width="10"/>
+<line x1="67" y1="5" x2="33" y2="5" stroke="white" stroke-width="10"/>
+<line x1="46.5355" y1="6.53553" x2="17.5355" y2="35.5355" stroke="white" stroke-width="10"/>
+<line x1="47.4645" y1="58.5355" x2="18.4645" y2="29.5355" stroke="white" stroke-width="10"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M5.25 0H0.25V5V35.25V40.25H5.25H58V55H0V65H63H68V60V35.25V30.25H63H10.25V10H63V0H5.25Z" fill="white"/>
+</svg>
